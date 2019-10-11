@@ -1,0 +1,1 @@
+mvn clean test -Dbrowser=chrome -DtestRail=true -Dsuite=TestSuite
